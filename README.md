@@ -15,6 +15,10 @@ How to install SoupFBF
 
 #5, type in npm start, then press enter,
 
-#6, you will see another window open with localhost:3000
+#6, if it failed, type in npm install, then press enter.
 
-#7, thats it.
+#7, when its done, type in npm start, then press enter.
+
+#8, you will see another window open with localhost:3000
+
+#9, thats it.
