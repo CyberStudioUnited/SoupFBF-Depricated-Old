@@ -22,6 +22,8 @@ make sure you and your friend has SoupFBF installed.
 
 #9, that is it, just go into localhost:3000, and you can create a room and invite your friends.
 
+#10, if you want to invite friends, visit an online version: https://soupfbf.loca.lt (the server can shut down sometimes...)
+
 # Similar Alternatives
 
 Similar alternatives to SoupFBF will be:
