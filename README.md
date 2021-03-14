@@ -13,12 +13,12 @@ How to install SoupFBF
 
 #4, press enter
 
-#5, type in npm start, then press enter,
+#6, type in npm install, then press enter.
 
-#6, if it failed, type in npm install, then press enter.
+#7, wait for it to install...
 
-#7, when its done, type in npm start, then press enter.
+#8, when its done, type in cd src, then press enter.
 
-#8, you will see another window open with localhost:3000
+#8, then type in node .\app.js
 
-#9, thats it.
+#9, thats it. just go to localhost:3000 and then you can create your room and invite friends.
