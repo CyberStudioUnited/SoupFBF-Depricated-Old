@@ -25,8 +25,8 @@ make sure you and your friend has SoupFBF installed.
 # Similar Alternatives
 
 Similar alternatives to SoupFBF will be:
-Google Meet
-Zoom
-FaceTime
-Discord
-Skype
+Google Meet, 
+Zoom, 
+FaceTime, 
+Discord, 
+Skype.
