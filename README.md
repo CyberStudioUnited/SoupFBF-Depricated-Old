@@ -20,7 +20,7 @@ make sure you and your friend has SoupFBF installed.
 
 #8, then type in node .\app.js
 
-#9, that is it, just go into 192.168.1.190:3000, and you can create a room and invite your friends.
+#9, that is it, just go into localhost:3000, and you can create a room and invite your friends.
 
 # Similar Alternatives
 
