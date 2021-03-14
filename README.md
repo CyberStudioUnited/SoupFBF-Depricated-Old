@@ -13,11 +13,11 @@ How to install SoupFBF
 
 #4, press enter
 
-#6, type in npm install, then press enter.
+#5, type in npm install, then press enter.
 
-#7, wait for it to install...
+#6, wait for it to install...
 
-#8, when its done, type in cd src, then press enter.
+#7, when its done, type in cd src, then press enter.
 
 #8, then type in node .\app.js
 
